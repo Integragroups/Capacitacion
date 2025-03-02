@@ -1,2 +1,2 @@
 # Capacitacion
-Contiene archivos de capacitaciones realizadas
+Contiene archivos de práctica de capacitaciones realizadas, las mismas que pueden servir de consulta al úblico
